@@ -5,9 +5,9 @@ Note: self-entertainment project. I like pixela therefore I want something more 
 class Pixela(username,token)
 
 methods:
-update_graph
-create_graph
-delete_graph
+update_graph,
+create_graph,
+delete_graph,
 
 files:
 main.py and test.ipynb
