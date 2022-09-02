@@ -14,7 +14,7 @@ class Pixela:
     
 
     # update graph takes 3 params
-    def update_graph(self, graph_id : str, date : int, amount : float):
+    def add_pixel(self, graph_id : str, date : int, amount : float):
         '''graph_id, date-YYYYMMDD, amount --> response and link'''
         
         # convert to pixela format
